@@ -7,4 +7,3 @@ Aprendizaje de Github en curso LSIIILSIII-2023-2
 - Gustavo Camargo
 - Dillan Asprilla
 - Juan Manuel Conde
-
